@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Said Azizov
 - 👀 I’m interested in AI, computer vision and deep learning
 - 🌱 I’m currently learning GANs and detection methods
+- 📫 my kaggle account: https://www.kaggle.com/michaelcripman
 - 📫 How to reach me:
     phone number: +79298688797
     email: said_azizov2004@mail.ru
