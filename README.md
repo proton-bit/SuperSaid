@@ -3,9 +3,9 @@
 - 🌱 I’m currently learn deep learning for CV and RL
 - 📫 my kaggle account: https://www.kaggle.com/michaelcripman
 - 📫 How to contact me:
-    phone number: +79298688797
-    email: said_azizov2004@mail.ru
-    discord: saidgood#3279
+    <a>phone number: +79298688797</a>
+    <a>email: said_azizov2004@mail.ru</a>
+    <a>discord: saidgood#3279</a>
 
 <!---
 SuperSaid09/SuperSaid09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
