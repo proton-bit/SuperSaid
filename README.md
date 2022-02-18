@@ -7,7 +7,6 @@
 - 🌱 I’m currently learn deep learning for CV and RL
 - 📫 my kaggle account: https://www.kaggle.com/michaelcripman
 - 📫 How to contact me:
-    <p>phone number: +79298688797</p>
     <p>email: said_azizov2004@mail.ru</p>
     <p>discord: saidgood#3279</p>
 
